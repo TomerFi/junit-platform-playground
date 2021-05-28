@@ -1,0 +1,5 @@
+--add-reads
+  child2=org.junit.jupiter.api
+
+--add-opens
+  child2/com.example.child2=org.junit.platform.commons
